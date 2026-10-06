@@ -1,0 +1,9 @@
+Inicio
+Leer NUM y V
+Seleccionar NUM
+1: Hacer VAL <- 100 * V
+2: Hacer VAL <- 100 ** V
+3: Hacer VAL <- 100 / V
+De otra forma: Hacer VAL <- 0
+Escribir VAL
+Fin

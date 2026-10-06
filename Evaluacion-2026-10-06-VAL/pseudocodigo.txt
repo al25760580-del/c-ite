@@ -1,0 +1,13 @@
+FUNCION_SELECTIVA_MULTIPLE
+Fecha: 2026-10-06
+{El programa, dados como datos NUM y V, calcula el resultado de una función}
+{NUM y V son variables de tipo entero. VAL es una variable de tipo real}
+
+1. Leer NUM y V
+2. Si NUM igual
+   1: Hacer VAL <- 100 * V
+   2: Hacer VAL <- 100 ** V
+   3: Hacer VAL <- 100 / V
+   De otra forma: Hacer VAL <- 0
+3. {Fin del condicional del paso 2}
+4. Escribir VAL

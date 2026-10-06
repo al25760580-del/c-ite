@@ -1,0 +1,19 @@
+Test 1
+Enter NUM: 1
+Enter V: 8
+VAL = 800.00
+
+Test 2
+Enter NUM: 2
+Enter V: 3
+VAL = 1000000.00
+
+Test 3
+Enter NUM: 3
+Enter V: 4
+VAL = 25.00
+
+Test 4
+Enter NUM: 7
+Enter V: 6
+VAL = 0.00
