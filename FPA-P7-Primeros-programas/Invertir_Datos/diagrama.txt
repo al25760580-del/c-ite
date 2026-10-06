@@ -1,0 +1,4 @@
+Inicio
+Leer A, B, C y D
+Escribir D, C, B y A
+Fin

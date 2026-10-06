@@ -1,0 +1,5 @@
+Inicio
+Leer A y B
+Hacer RES <- (A + B) ** (2 / 3)
+Escribir RES
+Fin

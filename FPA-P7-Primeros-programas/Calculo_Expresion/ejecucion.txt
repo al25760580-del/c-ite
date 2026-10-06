@@ -1,0 +1,2 @@
+Enter A and B: 1 8
+RES = 4.33

@@ -1,0 +1,2 @@
+Enter four integers separated by spaces: 1 2 3 4
+Reversed order: 4 3 2 1

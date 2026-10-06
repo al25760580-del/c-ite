@@ -1,0 +1,6 @@
+INVIERTE_DATOS
+{El programa, dados como datos cuatro valores enteros, invierte el orden de los mismos cuando los imprime}
+{A, B, C y D son variables de tipo entero}
+
+1. Leer A, B, C y D
+2. Escribir D, C, B y A

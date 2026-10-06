@@ -1,0 +1,7 @@
+CALCULA
+{El programa, dados como datos los enteros A y B, calcula el resultado de una expresión}
+{A y B son variables de tipo entero. RES es una variable de tipo real}
+
+1. Leer A y B
+2. Hacer RES <- (A + B) ** (2 / 3)
+3. Escribir RES
