@@ -1,0 +1,8 @@
+CALCULA_COSTO_COMBUSTIBLE
+{El programa, dados como datos la distancia, el rendimiento y el precio, calcula los litros usados y el costo total}
+{D, R y P son variables de tipo entero. LITROS y COSTO son variables de tipo entero}
+
+1. Leer D, R y P
+2. Hacer LITROS <- D / R
+3. Hacer COSTO <- LITROS * P
+4. Escribir "Litros usados", LITROS, "Costo total", COSTO

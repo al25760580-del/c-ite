@@ -1,0 +1,10 @@
+Enter distance
+100
+Enter efficiency
+10
+Enter price
+25
+Liters used
+10
+Total cost
+250

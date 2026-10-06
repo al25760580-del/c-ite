@@ -1,0 +1,6 @@
+Inicio
+Leer D, R y P
+Hacer LITROS <- D / R
+Hacer COSTO <- LITROS * P
+Escribir Litros usados, LITROS, Costo total, COSTO
+Fin
