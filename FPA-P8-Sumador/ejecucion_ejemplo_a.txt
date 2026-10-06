@@ -1,0 +1,3 @@
+Enter the first time (HH:MM:SS): 6:15:15
+Enter the second time (HH:MM:SS): 4:10:5
+Sum: 10:25:20

@@ -1,0 +1,14 @@
+SUMADOR_HORAS
+{El programa, dados dos tiempos en formato HH:MM:SS, calcula y muestra la suma de ambos tiempos}
+{H1, M1, S1, H2, M2 y S2 son variables de tipo entero}
+{TOTAL_SEGUNDOS, ACARREO_MINUTOS, SEGUNDOS, TOTAL_MINUTOS, ACARREO_HORAS, MINUTOS y HORAS son variables de tipo entero}
+
+1. Leer H1, M1, S1 y H2, M2, S2
+2. Hacer TOTAL_SEGUNDOS <- S1 + S2
+3. Hacer ACARREO_MINUTOS <- TOTAL_SEGUNDOS / 60
+4. Hacer SEGUNDOS <- TOTAL_SEGUNDOS % 60
+5. Hacer TOTAL_MINUTOS <- M1 + M2 + ACARREO_MINUTOS
+6. Hacer ACARREO_HORAS <- TOTAL_MINUTOS / 60
+7. Hacer MINUTOS <- TOTAL_MINUTOS % 60
+8. Hacer HORAS <- H1 + H2 + ACARREO_HORAS
+9. Escribir HORAS, MINUTOS y SEGUNDOS
